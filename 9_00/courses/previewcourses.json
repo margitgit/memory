@@ -1,0 +1,13 @@
+{
+  "sessionId": "itemBuilderPreviewSessionId",
+  "settings": {
+    "AllowScoreDebugging": true,
+    "AllowFSMDebugging": true,
+    "AllowTraceDebugging": true,
+    "ShowTaskNavigationBars": false
+  },
+  "headerButtons": [],
+  "courses": [
+    "previewTest"
+  ]
+}
