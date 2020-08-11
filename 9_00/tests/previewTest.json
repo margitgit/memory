@@ -1,12 +1,12 @@
 {
   "name": "previewTest",
   "items": [
-    "XPageSliderExample"
+    "Memory_V9"
   ],
   "taskCourse": [
     {
-      "item": "XPageSliderExample",
-      "task": "Task01"
+      "item": "Memory_V9",
+      "task": ""
     }
   ]
 }
