@@ -5,7 +5,8 @@
   ],
   "taskCourse": [
     {
-      "item": "Memory_V9"
+      "item": "Memory_V9", 
+      "task": "Task01"
     }
   ]
 }
